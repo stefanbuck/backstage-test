@@ -6,7 +6,7 @@ metadata:
   tags:
     - nodejs
     - data
- annotations:
+  annotations:
     github.com/project-slug: stefanbuck/backstage-test
 spec:
   type: service
