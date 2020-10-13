@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-app
+  description: Some example app
+  tags:
+    - nodejs
+    - data
+spec:
+  type: service
+  lifecycle: experimental
+  owner: example@example.com
