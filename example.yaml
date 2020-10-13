@@ -6,8 +6,6 @@ metadata:
   tags:
     - nodejs
     - data
-  annotations:
-    github.com/project-slug: stefanbuck/backstage-test
 spec:
   type: service
   lifecycle: experimental
