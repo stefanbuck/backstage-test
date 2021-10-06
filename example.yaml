@@ -8,5 +8,3 @@ metadata:
     - data
 spec:
   type: service
-  lifecycle: experimental
-  owner: example@example.com
